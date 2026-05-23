@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827026161843",
+    "project_id": "test-ba845",
+    "storage_bucket": "test-ba845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827026161843:android:9b190a493304b1106370c6",
+        "android_client_info": {
+          "package_name": "com.secureaudio.player.secure_audio_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmg_7-ntySNhytmd-3S4bRMqQLiJ4E0EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
